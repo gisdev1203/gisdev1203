@@ -31,7 +31,7 @@
 <p align="justify">I believe I would be an excellent fit for this position since I am a software engineer with a wide variety of experience in the field.</p>
 
 <p align="justify">I tend to view myself as a generalist since I try not to focus on any given technology. 
-My skills range from C, C++, C# PHP(CI, Laravel), Node, React, Vue, Angular, Ruby On Rails, Java, Swift, React-Native, Flutter, Django to Mysql, Postgres, MongoDB, 
+My skills range from PHP(CI, Laravel), Node, React, Vue, React-Native, Flutter, Django to Mysql, Postgres, MongoDB, 
 and I have 10+ years of experience. </p>
 
 <p align="justify">As a software engineer, I'm familiar with GitHub, GitLab, etc for version control and Jira and Trello for tasks management.</p>
